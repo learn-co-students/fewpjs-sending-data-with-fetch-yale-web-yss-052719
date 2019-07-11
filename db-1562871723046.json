@@ -23,28 +23,7 @@
       "id": 2
     }
   ],
-  "users": [
-    {
-      "name": "Elijah",
-      "email": "efloren@siue.edu",
-      "id": 1
-    },
-    {
-      "name": "Elijah",
-      "email": "efloren@siue.edu",
-      "id": 2
-    },
-    {
-      "name": "Elijah",
-      "email": "efloren@siue.edu",
-      "id": 3
-    },
-    {
-      "name": "Elijah",
-      "email": "efloren@siue.edu",
-      "id": 4
-    }
-  ],
+  "users": [],
   "robots": [
     {
       "robotName": "C8-09S100K",
